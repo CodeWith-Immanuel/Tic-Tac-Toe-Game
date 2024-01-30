@@ -1,4 +1,3 @@
-# demo.project
-This is my first GIt resporitry
-Author - immu
+# Tic-Tac-Toe Game
+Made with javascript,html,css
 
