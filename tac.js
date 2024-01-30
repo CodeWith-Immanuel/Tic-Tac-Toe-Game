@@ -57,7 +57,7 @@ const disableboxes = () => {
 
 };
 const showWinner = (winner) => {
-    mesg.innerText = congratulations Winner is ${winner}
+    mesg.innerText = `congratulations Winner is ${winner}`
     container.classList.remove("hide");
     disableboxes();
 };
